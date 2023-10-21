@@ -1,0 +1,7 @@
+          Correction of calculate perimeter of rectangle 2
+
+A este solo se le agrega un metodo al record para que el main este mas limpio y facil de entender,
+tambien se le mejoran algunos nombres para que sea mas entendible.
+
+"Para aclarar que comence a modificar la clase convertir distancia a millas, pero me enrede un
+poquito entonces mejor lo volvi a poner como estaba".

@@ -1,0 +1,6 @@
+            Billing Correction 2
+
+Para la realización de facturación 2, primero que todo se le cambia el String de la fecha por
+un LocalDate, para tener un mejor manejo de esta. Luego se crea un metodo que realice el calculo
+de la suma de las facturas y se eliminan los dos que hacian eso en el main. por ultimo se organiza
+las impresiones para que realizen el proceso con el metodo que cambiamos.
